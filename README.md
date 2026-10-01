@@ -39,3 +39,7 @@ p=10bs
    El precio no aumenta siempre lo mismo porque el dueño aplica un descuento por volumen para motivar al cliente a comprar más cantidad. Si el patrón cambiara a un aumento constante, cada arepa costaría lo mismo y no existiría ningún incentivo por llevar más. Por otro lado, si este patrón no se detiene ni se le pone un límite, el negocio terminaría perdiendo dinero, ya que a partir de la sexta arepa el precio total empieza a bajar, haciendo que diez arepas salgan en solo 10 Bs e incluso que once salgan completamente gratis.
 Pónmelo ordenado para GitHub usando su formato Hazlo para que aparezca separado en GitHub
 
+cuenta de thinkerkard 
+
+https://www.tinkercad.com/users/c0kWCytnodJ
+
