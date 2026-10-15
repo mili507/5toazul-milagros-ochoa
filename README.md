@@ -52,6 +52,7 @@ solución : hacer una semáforo
 
 a quien se beneficia : la gente de Santa Fe 
 bueno esto no tiene botón ya que se tiene que estar funcionando todo el tiempo esto evitaría accidentes en la calle y puede ser una solución temporal mientras se consigue uno mejor 
+![image alt](https://github.com/mili507/5toazul-milagros-ochoa/blob/5bd8357b9a7419ecbb1ef7f3f235fd086b3a6c90/IMG_6936.png)
 
 
 
