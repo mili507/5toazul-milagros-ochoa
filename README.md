@@ -43,3 +43,15 @@ cuenta de thinkerkard
 
 https://www.tinkercad.com/users/c0kWCytnodJ
 
+clase del 15 de octubre 2026
+
+
+problema:se dañó un semáforo en Santa Fe 
+
+solución : hacer una semáforo 
+
+a quien se beneficia : la gente de Santa Fe 
+bueno esto no tiene botón ya que se tiene que estar funcionando todo el tiempo esto evitaría accidentes en la calle y puede ser una solución temporal mientras se consigue uno mejor 
+
+
+
